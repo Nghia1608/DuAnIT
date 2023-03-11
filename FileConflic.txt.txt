@@ -1,11 +1,9 @@
 May tinh 1
-<<<<<<< HEAD
+
 dong thu 2 may tinh 2
 dong thu 2 tren may 2 lan 2
-=======
-<<<<<<< HEAD
+
 da sua tren may 1
-=======
+
 dong thu 2 may tinh 2
->>>>>>> 2e9918b4cebc068173d173e512334b633c50f828
->>>>>>> a4e3c43a9718ff2082ee164fb6381a9942c267e7
+
