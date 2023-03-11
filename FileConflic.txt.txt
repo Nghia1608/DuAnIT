@@ -1,2 +1,6 @@
 May tinh 1
+<<<<<<< HEAD
 da sua tren may 1
+=======
+dong thu 2 may tinh 2
+>>>>>>> 2e9918b4cebc068173d173e512334b633c50f828
