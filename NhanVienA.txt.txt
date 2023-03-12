@@ -1,3 +1,4 @@
 File duoc tao tren nhanh A
 da thay doi tren A
 thay doi tren may 3 333
+thay doi tren nhanh C
